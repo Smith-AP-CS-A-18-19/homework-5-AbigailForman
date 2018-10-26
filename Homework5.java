@@ -21,8 +21,8 @@ public class Homework5 {
 	 * substring method in the String class
 	 */
 	public String substring(int index, int length) {
-		str.substring(index, length);
-		
+		return str.substring(index, length);
+
 
 	}
 
@@ -32,9 +32,11 @@ public class Homework5 {
 	 * an example
 	 */
 	public boolean contains(String s) {
-		if (contains(String s)) {
+		if str {
 
 		}
+
+
 	}
 
 	/* Return the larger of the two stored numbers
